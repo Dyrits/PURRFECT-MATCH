@@ -18,8 +18,7 @@ Purrfect Match is a static landing page for a not-existing application that allo
 - [Contact](#contact)
 
 ## Related content
-[[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)] Purrfect Match  
-The Web Developer Bootcamp is a course by Colt Steele that teaches web development. This project is part of a legacy version of this course (which has been completely redone in 2022).
+[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) is a course by [Colt Steele](https://www.udemy.com/user/coltsteele/) that teaches web development. This project is part of a legacy version of this course (which has been completely redone in 2022).
 
 ## Screenshots
 ![Screenshot](screenshot.png)
